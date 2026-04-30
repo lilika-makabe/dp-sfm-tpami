@@ -6,7 +6,7 @@
 
 This is the official repository (pre-release) for our TPAMI paper: “DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity”
 
-![teaser](assets/teaser.png)
+![teaser](assets/teaser_l.png)
 
 </td></tr></table>
 
