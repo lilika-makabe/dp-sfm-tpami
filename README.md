@@ -13,7 +13,7 @@
     <a href="http://www-infobiz.ist.osaka-u.ac.jp/en/member/matsushita/"><strong>Yasuyuki Matsushita</strong></a>
 </h4>
 
-This is the official repository (pre-release) for our paper: “**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**”
+This is the official repository (pre-release) for our TPAMI paper: “**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**”
 
 ### 🌐 Project Page (TBA) | 📄 Paper (TBA) | 💻 Code & Data (upcoming)
 
