@@ -10,7 +10,7 @@ This is the official repository (pre-release) for our TPAMI paper: “DP-SfM: Du
 
 </td></tr></table>
 
-### 🌐 Project Page (TBA) | 📄 Paper (TBA) | 💻 Code & Data (upcoming)
+### 🌐 Project Page (TBA) | 📄 [Preprint (arxiv:2605.01852)](https://arxiv.org/abs/2605.01852) | 💻 Code & Data (upcoming)
 
 
 ## 🔔 News
