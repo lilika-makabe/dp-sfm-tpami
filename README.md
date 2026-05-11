@@ -32,8 +32,9 @@ Multi-view 3D reconstruction (SfM + MVS) suffers from an unknown global scale am
   title   = {DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity},
   author  = {Makabe, Lilika and Ashida, Kohei and Santo, Hiroaki and Okura, Fumio and Matsushita, Yasuyuki},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  pubstate    = {Accepted for publication (to appear)},
-  year    = {TBA}
+  doi={10.1109/TPAMI.2026.3690655},
+  url = {https://doi.ieeecomputersociety.org/10.1109/TPAMI.2026.3690655},
+  year    = {2026}
 }
 ```
 
