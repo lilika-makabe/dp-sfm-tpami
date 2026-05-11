@@ -1,7 +1,12 @@
 <table><tr><td align="center">
-
-## DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity
-
+<div align="center">
+<h2 align="center">
+    <b>DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity
+   <br /> 
+      <font size=3>TPAMI 2026 </font></b> 
+</h2>
+<div>
+  
 **[Lilika Makabe](https://lilika-makabe.github.io/)** · **Kohei Ashida** · **[Hiroaki Santo](https://sites.google.com/view/hiroaki-santo/)** · **[Fumio Okura](http://cvl.ist.osaka-u.ac.jp/user/okura/)** · **[Yasuyuki Matsushita](http://www-infobiz.ist.osaka-u.ac.jp/en/member/matsushita/)**
 
 This is the official repository (pre-release) for our TPAMI paper: “DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity”
